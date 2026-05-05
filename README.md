@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Magda 👋
 
-<!--
-**magdalenasyposz/magdalenasyposz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics-trained engineer transitioning into data science. I spent 3 years in laser R&D, analyzing experimental and production datasets — now I'm applying that same analytical mindset to data science and analytics.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 MSc in Photonics, Warsaw University of Technology
+- 💼 3 years of R&D experience at Fluence Technology
+- 🐍 Working with Python (pandas, matplotlib, scikit-learn), SQL, and Databricks
+- 📊 Currently building my data science portfolio
+- 📍 Based in Poland | Open to Data Analyst / Data Scientist roles
+
+## Currently working on
+
+- Exploratory data analysis projects using real-world datasets
+- Strengthening machine learning skills through applied projects
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-magdalenasyposz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/magdalenasyposz/)
