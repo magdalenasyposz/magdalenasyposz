@@ -1,4 +1,4 @@
-# Hi, I'm Magda 👋
+# Hi, I'm Magdalena 👋
 
 Physics-trained engineer transitioning into data science. I spent 3 years in laser R&D, analyzing experimental and production datasets — now I'm applying that same analytical mindset to data science and analytics.
 
